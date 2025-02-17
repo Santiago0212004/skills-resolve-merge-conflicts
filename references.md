@@ -1,2 +1,3 @@
-# Conflictive text
-This is a text that will cause conflicts
+# References
+
+* octocat 1 😈
